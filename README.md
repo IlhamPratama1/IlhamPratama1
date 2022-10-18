@@ -13,3 +13,8 @@ I'm a software developer based in Indonesia. I am a college who has a great pass
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=790b7611d416c646116d9b3f85d6699718f77f5806a0818c&rid=giphy.gif&ct=s" width="50">
 </p>
+
+<h2>⚡️ Github Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlhamPratama1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamPratama1&layout=compact&theme=vision-friendly-dark)](https://github.com/IlhamPratama1/github-readme-stats)
