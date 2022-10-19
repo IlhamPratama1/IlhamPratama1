@@ -24,9 +24,9 @@ I'm a software developer based in Indonesia. I have experience in developing var
   <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=790b7611d416c646116d9b3f85d6699718f77f5806a0818c&rid=giphy.gif&ct=s" width="50">
   <img src="images/tailwind.png" height="45">
   <img src="images/redux.webp" height="45">
-  <img src="images/mysql.webp" height="45">
-  <img src="images/postgres.webp" height="45">
-  <img src="images/mongo.webp" height="45">
+  <img src="images/mysql.png" height="45">
+  <img src="images/postgres.png" height="45">
+  <img src="images/mongo.png" height="45">
 
 </p>
 
