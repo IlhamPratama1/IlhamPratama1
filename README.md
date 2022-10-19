@@ -13,7 +13,7 @@ I'm a software developer based in Indonesia. I have experience in developing var
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="images/typescript.png" width="45">
   <img src="https://media3.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761167c3cdd056f41c5ad886e2a454f835ac0c43d02b&rid=giphy.gif&ct=s" width="50">
-  <img src="images/dart.png" width="45">
+  <img src="images/dart.webp" width="45">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
   <img src="images/flutter.png" height="45">
   <img src="https://media1.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=790b761173a920013298b2037e9f7d48704c6bd6947303c1&rid=giphy.gif&ct=s" width="50">
