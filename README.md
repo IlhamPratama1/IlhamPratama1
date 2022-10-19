@@ -8,8 +8,12 @@ I'm a software developer based in Indonesia. I have experience in developing var
 
 <h2>🔧 Stack</h2>
 <p>
+  <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b761108660ba16ea0c40beb9e778de04d518f534026a3&rid=giphy.gif&ct=s" width="50">
+  <img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=790b761126c624792e6c68d5c014be709c643c61c862defb&rid=giphy.gif&ct=s" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://media3.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761167c3cdd056f41c5ad886e2a454f835ac0c43d02b&rid=giphy.gif&ct=s" width="50">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+  <img src="https://media1.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif?cid=790b761173a920013298b2037e9f7d48704c6bd6947303c1&rid=giphy.gif&ct=s" width="50">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=790b7611d416c646116d9b3f85d6699718f77f5806a0818c&rid=giphy.gif&ct=s" width="50">
 </p>
